@@ -1,4 +1,4 @@
-package biz.gomsoft.cesadminweb.config;
+package TestXssFilter;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
